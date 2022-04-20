@@ -1,0 +1,6 @@
+per avviare l'applicazione avete bisogno di installare yarn 
+una volta installato vi recate nella cartella del progetto tramite terminale
+qui avviate il comando: yarn serve
+aprite il browser e inserite nella barra di ricerca: localhost:8080
+una volta fatto ciò l'app meteo dovrebbe avviarsi
+(se ci sono problematica potrebbe essere dato dall'api)
